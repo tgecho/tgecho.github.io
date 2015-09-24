@@ -1,2 +1,4 @@
 # tgecho.github.io
-username.github.io
+
+- [un.deter.red](http://un.deter.red)
+- [github.com/tgecho](http://github.com/tgecho/)
